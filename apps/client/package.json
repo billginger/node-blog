@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "koa": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
   }
 }
