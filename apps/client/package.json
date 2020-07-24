@@ -4,6 +4,7 @@
   "description": "NodeBlog Client App",
   "main": "index.js",
   "scripts": {
+    "tsc": "node_modules/.bin/tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bill",
